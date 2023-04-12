@@ -1,0 +1,35 @@
+D:\Software Angels\Curso YouTube\Visual Basic\ConsumirApi\ConsumirApiNew\ConsumirApiNew\obj\Debug\ConsumirApiNew.vbproj.AssemblyReference.cache
+D:\Software Angels\Curso YouTube\Visual Basic\ConsumirApi\ConsumirApiNew\ConsumirApiNew\obj\Debug\ConsumirApiNew.Form1.resources
+D:\Software Angels\Curso YouTube\Visual Basic\ConsumirApi\ConsumirApiNew\ConsumirApiNew\obj\Debug\ConsumirApiNew.Resources.resources
+D:\Software Angels\Curso YouTube\Visual Basic\ConsumirApi\ConsumirApiNew\ConsumirApiNew\obj\Debug\ConsumirApiNew.vbproj.GenerateResource.cache
+D:\Software Angels\Curso YouTube\Visual Basic\ConsumirApi\ConsumirApiNew\ConsumirApiNew\obj\Debug\ConsumirApiNew.vbproj.CoreCompileInputs.cache
+D:\Software Angels\Curso YouTube\Visual Basic\ConsumirApi\ConsumirApiNew\ConsumirApiNew\bin\Debug\ConsumirApiNew.exe.config
+D:\Software Angels\Curso YouTube\Visual Basic\ConsumirApi\ConsumirApiNew\ConsumirApiNew\bin\Debug\ConsumirApiNew.exe
+D:\Software Angels\Curso YouTube\Visual Basic\ConsumirApi\ConsumirApiNew\ConsumirApiNew\bin\Debug\ConsumirApiNew.pdb
+D:\Software Angels\Curso YouTube\Visual Basic\ConsumirApi\ConsumirApiNew\ConsumirApiNew\bin\Debug\ConsumirApiNew.xml
+D:\Software Angels\Curso YouTube\Visual Basic\ConsumirApi\ConsumirApiNew\ConsumirApiNew\bin\Debug\Newtonsoft.Json.dll
+D:\Software Angels\Curso YouTube\Visual Basic\ConsumirApi\ConsumirApiNew\ConsumirApiNew\bin\Debug\RestSharp.dll
+D:\Software Angels\Curso YouTube\Visual Basic\ConsumirApi\ConsumirApiNew\ConsumirApiNew\bin\Debug\Newtonsoft.Json.xml
+D:\Software Angels\Curso YouTube\Visual Basic\ConsumirApi\ConsumirApiNew\ConsumirApiNew\bin\Debug\RestSharp.xml
+D:\Software Angels\Curso YouTube\Visual Basic\ConsumirApi\ConsumirApiNew\ConsumirApiNew\obj\Debug\ConsumirApiNew.vbproj.CopyComplete
+D:\Software Angels\Curso YouTube\Visual Basic\ConsumirApi\ConsumirApiNew\ConsumirApiNew\obj\Debug\ConsumirApiNew.exe
+D:\Software Angels\Curso YouTube\Visual Basic\ConsumirApi\ConsumirApiNew\ConsumirApiNew\obj\Debug\ConsumirApiNew.xml
+D:\Software Angels\Curso YouTube\Visual Basic\ConsumirApi\ConsumirApiNew\ConsumirApiNew\obj\Debug\ConsumirApiNew.pdb
+C:\Users\Fancisco\Downloads\ConsumirApiNew\ConsumirApiNew\bin\Debug\ConsumirApiNew.exe.config
+C:\Users\Fancisco\Downloads\ConsumirApiNew\ConsumirApiNew\bin\Debug\ConsumirApiNew.exe
+C:\Users\Fancisco\Downloads\ConsumirApiNew\ConsumirApiNew\bin\Debug\ConsumirApiNew.pdb
+C:\Users\Fancisco\Downloads\ConsumirApiNew\ConsumirApiNew\bin\Debug\ConsumirApiNew.xml
+C:\Users\Fancisco\Downloads\ConsumirApiNew\ConsumirApiNew\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fancisco\Downloads\ConsumirApiNew\ConsumirApiNew\bin\Debug\RestSharp.dll
+C:\Users\Fancisco\Downloads\ConsumirApiNew\ConsumirApiNew\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fancisco\Downloads\ConsumirApiNew\ConsumirApiNew\bin\Debug\RestSharp.xml
+C:\Users\Fancisco\Downloads\ConsumirApiNew\ConsumirApiNew\obj\Debug\ConsumirApiNew.vbproj.AssemblyReference.cache
+C:\Users\Fancisco\Downloads\ConsumirApiNew\ConsumirApiNew\obj\Debug\ConsumirApiNew.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Fancisco\Downloads\ConsumirApiNew\ConsumirApiNew\obj\Debug\ConsumirApiNew.Form1.resources
+C:\Users\Fancisco\Downloads\ConsumirApiNew\ConsumirApiNew\obj\Debug\ConsumirApiNew.Resources.resources
+C:\Users\Fancisco\Downloads\ConsumirApiNew\ConsumirApiNew\obj\Debug\ConsumirApiNew.vbproj.GenerateResource.cache
+C:\Users\Fancisco\Downloads\ConsumirApiNew\ConsumirApiNew\obj\Debug\ConsumirApiNew.vbproj.CoreCompileInputs.cache
+C:\Users\Fancisco\Downloads\ConsumirApiNew\ConsumirApiNew\obj\Debug\ConsumirApiNew.vbproj.CopyComplete
+C:\Users\Fancisco\Downloads\ConsumirApiNew\ConsumirApiNew\obj\Debug\ConsumirApiNew.exe
+C:\Users\Fancisco\Downloads\ConsumirApiNew\ConsumirApiNew\obj\Debug\ConsumirApiNew.xml
+C:\Users\Fancisco\Downloads\ConsumirApiNew\ConsumirApiNew\obj\Debug\ConsumirApiNew.pdb
